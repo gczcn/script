@@ -1,6 +1,9 @@
 Used to move the cursor position with simple commands
 > Note: this may only be used with xorg
 
+## Dependencies:
+- xdotool
+
 ## Usags:
 
 Here are some examples:
