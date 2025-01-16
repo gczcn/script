@@ -10,8 +10,14 @@ nvv: a very very simple version manager for neovim
 nvv: a very very simple version manager for neovim
 
 Usage:
-  nvv.sh command version
+nvv command version
 
 Commands:
-  install, remove, list-remote, list, use,
+  help:        show docs
+  list:        list all installed versions
+  list-remote: list all available versions
+  install:     install a version
+  use:         create a symbolic link for the specified version
+  remove:      remove a version
+  update:      update a version
 ```
