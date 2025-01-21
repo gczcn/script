@@ -1,2 +1,5 @@
 .DS_store
 font_downloader/downloads/*
+consolas_patch_nerdfont/original/*
+consolas_patch_nerdfont/patcher/*
+consolas_patch_nerdfont/output/*
