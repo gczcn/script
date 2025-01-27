@@ -20,3 +20,15 @@ fontforge --script patcher/font-patcher consolig/build/Consolig-Bold.ttf --outpu
 fontforge --script patcher/font-patcher consolig/build/Consolig-BoldItalic.ttf --outputdir output --complete
 fontforge --script patcher/font-patcher consolig/build/Consolig-BoldItalic.ttf --outputdir output --complete --mono
 fontforge --script patcher/font-patcher consolig/build/Consolig-BoldItalic.ttf --outputdir output --complete --variable-width-glyphs
+fontforge --script patcher/font-patcher original/consola.ttf --outputdir output --complete
+fontforge --script patcher/font-patcher original/consola.ttf --outputdir output --complete --mono
+fontforge --script patcher/font-patcher original/consola.ttf --outputdir output --complete --variable-width-glyphs
+fontforge --script patcher/font-patcher original/consolab.ttf --outputdir output --complete
+fontforge --script patcher/font-patcher original/consolab.ttf --outputdir output --complete --mono
+fontforge --script patcher/font-patcher original/consolab.ttf --outputdir output --complete --variable-width-glyphs
+fontforge --script patcher/font-patcher original/consolai.ttf --outputdir output --complete
+fontforge --script patcher/font-patcher original/consolai.ttf --outputdir output --complete --mono
+fontforge --script patcher/font-patcher original/consolai.ttf --outputdir output --complete --variable-width-glyphs
+fontforge --script patcher/font-patcher original/consolaz.ttf --outputdir output --complete
+fontforge --script patcher/font-patcher original/consolaz.ttf --outputdir output --complete --mono
+fontforge --script patcher/font-patcher original/consolaz.ttf --outputdir output --complete --variable-width-glyphs
