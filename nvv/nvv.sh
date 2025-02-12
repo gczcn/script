@@ -4,10 +4,10 @@ downloads=$data_dir/downloads
 versions=$data_dir/versions
 bin=$data_dir/bin
 
-# package='nvim-macos-arm64.tar.gz'  # for macos arm64
-# package='nvim-macos-x86_64.tar.gz'  # for macos arm64
+package='nvim-macos-arm64.tar.gz'  # for macos arm64
+# package='nvim-macos-x86_64.tar.gz'  # for macos x86_64
 # package='nvim-linux-arm64.tar.gz'  # for linux arm64
-package='nvim-linux-x86_64.tar.gz'  # for linux x86_64
+# package='nvim-linux-x86_64.tar.gz'  # for linux x86_64
 mkdir -p $data_dir
 mkdir -p $downloads
 mkdir -p $versions
