@@ -1,0 +1,20 @@
+[buildPlans.IosevkaPlex]
+family = "IosevkaPlex"
+spacing = "term"
+serifs = "sans"
+noCvSs = true
+exportGlyphNames = false
+
+  [buildPlans.IosevkaPlex.variants]
+  inherits = "ss15"
+
+    [buildPlans.IosevkaPlex.variants.design]
+    braille-dot = "square"
+
+  [buildPlans.IosevkaPlex.ligations]
+  inherits = "dlig"
+
+[buildPlans.IosevkaPlex.widths.Normal]
+shape = 500
+menu = 5
+css = "normal"

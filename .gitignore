@@ -4,3 +4,6 @@ consolas_patch/original
 consolas_patch/patcher
 consolas_patch/output
 consolas_patch/consolig
+custom_iosevka/output
+custom_iosevka/Iosevka_source_code
+custom_iosevka/patcher
