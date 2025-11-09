@@ -1,0 +1,16 @@
+fzf_default_opts = [
+  '--reverse',
+  '--highlight-line',
+  '--pointer=""',
+  '--no-info',
+  '--no-separator',
+  '--no-scrollbar',
+  '--prompt=" menu "',
+]
+
+fzf_default_color_opts = [
+  '--color=fg:#ebdbb2,fg+:#ebdbb2,bg:#282828,bg+:#3c3836',
+  '--color=hl:#83a598,hl+:#83a598,info:#fabd2f,marker:#b8bb26',
+  '--color=prompt:#8ec07c,spinner:#fb4934,pointer:#fb4934,header:#83a598',
+  '--color=border:#504945,query:#ebdbb2',
+]

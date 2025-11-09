@@ -7,3 +7,4 @@ List of all scripts:
 - [consolas_patch_nerdfont](https://github.com/gczcn/script/tree/main/consolas_patch_nerdfont) : Used for patching Consolas fonts
 - [tool_of_jump_game](https://github.com/gczcn/script/tree/main/tool_of_jump_game) : Wechat jump game mini program assistant tool (Chinese comments)
 - [casio_fx999cncw_pin_zi](https://github.com/gczcn/script/tree/main/casio_fx999cncw_pin_zi) : 为 Casio fx-99CN CW VerB 编写的拼字按键生成器
+- [fzf_menu](https://github.com/gczcn/script/tree/main/fzf_menu) : replace `dmenu` with `fzf`
