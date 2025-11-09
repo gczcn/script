@@ -7,3 +7,4 @@ consolas_patch/consolig
 custom_iosevka/output
 custom_iosevka/Iosevka_source_code
 custom_iosevka/patcher
+fzf_menu/providers/__pycache__/*
