@@ -1,4 +1,5 @@
 cd `dirname $0`
+rm -rf patcher output consolig
 mkdir patcher
 mkdir output
 git clone https://github.com/ofolis/consolig.git
